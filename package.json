@@ -1,0 +1,14 @@
+{
+  "name": "api-fetch-re",
+  "version": "1.0.0",
+  "description": "projektni zadatak",
+  "main": "script.js",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omeragic Mona",
+  "license": "ISC"
+}
